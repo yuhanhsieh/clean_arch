@@ -1,2 +1,3 @@
 # clean_arch
-123
+讓軟體變軟。
+Clean Architecture 讀書與教育訓練心得。
