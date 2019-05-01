@@ -1,3 +1,5 @@
-# clean_arch
-讓軟體變軟。
-Clean Architecture 讀書與教育訓練心得。
+# 讓軟體變軟。#
+
+這是我讀《Clean Architecture 無瑕的程式碼整潔的軟體設計與架構偏》 讀書與參加教育訓練心得。
+
+預計先將教育訓練講義內容與自己的筆記記錄於此，再逐步調整文章的__架構（Architecture）__ 與內容。
